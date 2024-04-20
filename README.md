@@ -1,0 +1,1 @@
+Our project focuses on improving the safety of self-driving cars by implementing object detection techniques. Leveraging YOLO models, we will focus on detecting and tracking crucial elements including pedestrians, cars, bikes and traffic lights too.
